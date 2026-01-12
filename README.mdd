@@ -1,0 +1,34 @@
+# 💰 Simple Interest Calculator
+
+A beginner-friendly project to calculate **Simple Interest** using the formula:
+
+\[
+SI = \frac{P \cdot R \cdot T}{100}
+\]
+
+Where:
+- **P** = Principal amount
+- **R** = Rate of interest (per annum)
+- **T** = Time (in years)
+
+---
+
+## 📘 Features
+- Accepts user input for Principal, Rate, and Time.
+- Computes Simple Interest instantly.
+- Available in both **Python CLI** and **Web (HTML/JS)** versions.
+
+---
+
+## 🛠️ Technologies Used
+- Python 3
+- HTML, CSS, JavaScript
+
+---
+
+## 🚀 How to Run
+
+### Python Version
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/simple-interest-calculator
